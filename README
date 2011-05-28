@@ -1,0 +1,9 @@
+https://github.com/taku-o/vim-hardcopy-config
+
+vim ':hardcopy' command option sample.
+
+1. customize macros/printrc.vim
+2. source macros/printrc.vim
+3. execute :hardcopy
+
+
